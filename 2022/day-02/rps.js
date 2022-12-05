@@ -17,7 +17,7 @@ const getCheatSheetResults = () =>
                 // Part Two Shapes
                 const { rock, paper, scissors } = shapes;
 
-                // Cheat Sheet Decoded
+                // Cheat Sheet Decoded to Numbers
                 const cheatSheetWithNumbers = 
                     data
                     .split('\n')
